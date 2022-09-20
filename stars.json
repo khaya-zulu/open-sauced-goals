@@ -1,0 +1,80 @@
+[
+  {
+    "full_name": "supabase/storage-api",
+    "stargazers_count": 179,
+    "open_issues_count": 43,
+    "forks_count": 32
+  },
+  {
+    "full_name": "mhart/aws4fetch",
+    "stargazers_count": 261,
+    "open_issues_count": 9,
+    "forks_count": 29
+  },
+  {
+    "full_name": "bdougie/awesome-black-developers",
+    "stargazers_count": 198,
+    "open_issues_count": 1,
+    "forks_count": 21
+  },
+  {
+    "full_name": "arnnis/react-native-toast-notifications",
+    "stargazers_count": 374,
+    "open_issues_count": 30,
+    "forks_count": 59
+  },
+  {
+    "full_name": "jeanverster/react-native-styled-toast",
+    "stargazers_count": 274,
+    "open_issues_count": 23,
+    "forks_count": 29
+  },
+  {
+    "full_name": "snaplet/copycat",
+    "stargazers_count": 155,
+    "open_issues_count": 1,
+    "forks_count": 3
+  },
+  {
+    "full_name": "rayepps/radash",
+    "stargazers_count": 1573,
+    "open_issues_count": 33,
+    "forks_count": 48
+  },
+  {
+    "full_name": "zygopleural/snaplet-circleci-orb",
+    "stargazers_count": 3,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "snaplet/vercel-action",
+    "stargazers_count": 8,
+    "open_issues_count": 0,
+    "forks_count": 1
+  },
+  {
+    "full_name": "snaplet/publish-postgres-with-data-docker-action",
+    "stargazers_count": 8,
+    "open_issues_count": 1,
+    "forks_count": 2
+  },
+  {
+    "full_name": "snaplet/action",
+    "stargazers_count": 8,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "snaplet/docs",
+    "stargazers_count": 41,
+    "open_issues_count": 9,
+    "forks_count": 7
+  },
+  {
+    "full_name": "colinhacks/zod",
+    "stargazers_count": 11641,
+    "open_issues_count": 87,
+    "forks_count": 423
+  }
+]
