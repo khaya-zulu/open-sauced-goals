@@ -1,8 +1,20 @@
 [
   {
+    "full_name": "supabase/react-data-grid",
+    "stargazers_count": 13,
+    "open_issues_count": 8,
+    "forks_count": 5
+  },
+  {
+    "full_name": "supabase-community/postgres-wasm",
+    "stargazers_count": 3,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "snaplet/postgres-wasm",
-    "stargazers_count": 19,
-    "open_issues_count": 6,
+    "stargazers_count": 39,
+    "open_issues_count": 2,
     "forks_count": 3
   },
   {
@@ -14,7 +26,7 @@
   {
     "full_name": "supabase/storage-api",
     "stargazers_count": 179,
-    "open_issues_count": 38,
+    "open_issues_count": 36,
     "forks_count": 33
   },
   {
@@ -25,15 +37,15 @@
   },
   {
     "full_name": "bdougie/awesome-black-developers",
-    "stargazers_count": 198,
+    "stargazers_count": 199,
     "open_issues_count": 1,
     "forks_count": 21
   },
   {
     "full_name": "arnnis/react-native-toast-notifications",
-    "stargazers_count": 375,
+    "stargazers_count": 376,
     "open_issues_count": 30,
-    "forks_count": 59
+    "forks_count": 60
   },
   {
     "full_name": "jeanverster/react-native-styled-toast",
@@ -43,14 +55,14 @@
   },
   {
     "full_name": "snaplet/copycat",
-    "stargazers_count": 158,
-    "open_issues_count": 1,
+    "stargazers_count": 159,
+    "open_issues_count": 2,
     "forks_count": 3
   },
   {
     "full_name": "rayepps/radash",
-    "stargazers_count": 1629,
-    "open_issues_count": 35,
+    "stargazers_count": 1639,
+    "open_issues_count": 36,
     "forks_count": 52
   },
   {
@@ -85,8 +97,8 @@
   },
   {
     "full_name": "colinhacks/zod",
-    "stargazers_count": 11848,
-    "open_issues_count": 95,
-    "forks_count": 428
+    "stargazers_count": 11921,
+    "open_issues_count": 101,
+    "forks_count": 433
   }
 ]
