@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "tmm/react-supabase",
+    "stargazers_count": 196,
+    "open_issues_count": 5,
+    "forks_count": 20
+  },
+  {
     "full_name": "supabase/react-data-grid",
     "stargazers_count": 13,
     "open_issues_count": 8,
@@ -7,27 +13,27 @@
   },
   {
     "full_name": "supabase-community/postgres-wasm",
-    "stargazers_count": 75,
+    "stargazers_count": 80,
     "open_issues_count": 0,
     "forks_count": 2
   },
   {
     "full_name": "snaplet/postgres-wasm",
-    "stargazers_count": 1618,
+    "stargazers_count": 1736,
     "open_issues_count": 5,
-    "forks_count": 41
+    "forks_count": 44
   },
   {
     "full_name": "snaplet/netlify-preview-database-plugin",
     "stargazers_count": 8,
-    "open_issues_count": 1,
+    "open_issues_count": 2,
     "forks_count": 1
   },
   {
     "full_name": "supabase/storage-api",
     "stargazers_count": 183,
     "open_issues_count": 33,
-    "forks_count": 34
+    "forks_count": 35
   },
   {
     "full_name": "mhart/aws4fetch",
@@ -37,7 +43,7 @@
   },
   {
     "full_name": "bdougie/awesome-black-developers",
-    "stargazers_count": 198,
+    "stargazers_count": 199,
     "open_issues_count": 1,
     "forks_count": 21
   },
@@ -55,15 +61,15 @@
   },
   {
     "full_name": "snaplet/copycat",
-    "stargazers_count": 187,
+    "stargazers_count": 190,
     "open_issues_count": 2,
-    "forks_count": 5
+    "forks_count": 6
   },
   {
     "full_name": "rayepps/radash",
-    "stargazers_count": 1726,
-    "open_issues_count": 27,
-    "forks_count": 54
+    "stargazers_count": 1751,
+    "open_issues_count": 20,
+    "forks_count": 55
   },
   {
     "full_name": "zygopleural/snaplet-circleci-orb",
@@ -91,14 +97,14 @@
   },
   {
     "full_name": "snaplet/docs",
-    "stargazers_count": 51,
+    "stargazers_count": 52,
     "open_issues_count": 9,
     "forks_count": 9
   },
   {
     "full_name": "colinhacks/zod",
-    "stargazers_count": 12372,
-    "open_issues_count": 114,
-    "forks_count": 455
+    "stargazers_count": 12533,
+    "open_issues_count": 124,
+    "forks_count": 459
   }
 ]
