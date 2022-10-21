@@ -1,9 +1,9 @@
 [
   {
     "full_name": "tmm/react-supabase",
-    "stargazers_count": 196,
-    "open_issues_count": 5,
-    "forks_count": 20
+    "stargazers_count": 199,
+    "open_issues_count": 6,
+    "forks_count": 21
   },
   {
     "full_name": "supabase/react-data-grid",
@@ -13,15 +13,15 @@
   },
   {
     "full_name": "supabase-community/postgres-wasm",
-    "stargazers_count": 80,
+    "stargazers_count": 83,
     "open_issues_count": 0,
     "forks_count": 2
   },
   {
     "full_name": "snaplet/postgres-wasm",
-    "stargazers_count": 1736,
+    "stargazers_count": 1763,
     "open_issues_count": 5,
-    "forks_count": 44
+    "forks_count": 46
   },
   {
     "full_name": "snaplet/netlify-preview-database-plugin",
@@ -31,7 +31,7 @@
   },
   {
     "full_name": "supabase/storage-api",
-    "stargazers_count": 183,
+    "stargazers_count": 184,
     "open_issues_count": 33,
     "forks_count": 35
   },
@@ -61,15 +61,15 @@
   },
   {
     "full_name": "snaplet/copycat",
-    "stargazers_count": 190,
-    "open_issues_count": 2,
-    "forks_count": 6
+    "stargazers_count": 192,
+    "open_issues_count": 1,
+    "forks_count": 7
   },
   {
     "full_name": "rayepps/radash",
-    "stargazers_count": 1751,
-    "open_issues_count": 20,
-    "forks_count": 55
+    "stargazers_count": 1760,
+    "open_issues_count": 19,
+    "forks_count": 58
   },
   {
     "full_name": "zygopleural/snaplet-circleci-orb",
@@ -103,8 +103,8 @@
   },
   {
     "full_name": "colinhacks/zod",
-    "stargazers_count": 12533,
-    "open_issues_count": 124,
-    "forks_count": 459
+    "stargazers_count": 12690,
+    "open_issues_count": 120,
+    "forks_count": 464
   }
 ]
