@@ -1,7 +1,13 @@
 [
   {
+    "full_name": "andi23rosca/solid-markdown",
+    "stargazers_count": 25,
+    "open_issues_count": 3,
+    "forks_count": 4
+  },
+  {
     "full_name": "tmm/react-supabase",
-    "stargazers_count": 203,
+    "stargazers_count": 206,
     "open_issues_count": 6,
     "forks_count": 21
   },
@@ -13,31 +19,31 @@
   },
   {
     "full_name": "supabase-community/postgres-wasm",
-    "stargazers_count": 85,
+    "stargazers_count": 86,
     "open_issues_count": 0,
     "forks_count": 3
   },
   {
     "full_name": "snaplet/postgres-wasm",
-    "stargazers_count": 1838,
+    "stargazers_count": 1851,
     "open_issues_count": 5,
-    "forks_count": 53
+    "forks_count": 55
   },
   {
     "full_name": "snaplet/netlify-preview-database-plugin",
-    "stargazers_count": 8,
+    "stargazers_count": 9,
     "open_issues_count": 2,
     "forks_count": 1
   },
   {
     "full_name": "supabase/storage-api",
-    "stargazers_count": 191,
-    "open_issues_count": 30,
+    "stargazers_count": 193,
+    "open_issues_count": 31,
     "forks_count": 35
   },
   {
     "full_name": "mhart/aws4fetch",
-    "stargazers_count": 276,
+    "stargazers_count": 278,
     "open_issues_count": 5,
     "forks_count": 29
   },
@@ -49,13 +55,13 @@
   },
   {
     "full_name": "arnnis/react-native-toast-notifications",
-    "stargazers_count": 383,
+    "stargazers_count": 387,
     "open_issues_count": 30,
     "forks_count": 60
   },
   {
     "full_name": "jeanverster/react-native-styled-toast",
-    "stargazers_count": 280,
+    "stargazers_count": 281,
     "open_issues_count": 22,
     "forks_count": 30
   },
@@ -67,9 +73,9 @@
   },
   {
     "full_name": "rayepps/radash",
-    "stargazers_count": 1793,
-    "open_issues_count": 13,
-    "forks_count": 59
+    "stargazers_count": 1806,
+    "open_issues_count": 14,
+    "forks_count": 58
   },
   {
     "full_name": "zygopleural/snaplet-circleci-orb",
@@ -79,15 +85,15 @@
   },
   {
     "full_name": "snaplet/vercel-action",
-    "stargazers_count": 11,
+    "stargazers_count": 12,
     "open_issues_count": 0,
-    "forks_count": 1
+    "forks_count": 0
   },
   {
     "full_name": "snaplet/publish-postgres-with-data-docker-action",
     "stargazers_count": 9,
     "open_issues_count": 1,
-    "forks_count": 2
+    "forks_count": 1
   },
   {
     "full_name": "snaplet/action",
@@ -97,14 +103,14 @@
   },
   {
     "full_name": "snaplet/docs",
-    "stargazers_count": 54,
+    "stargazers_count": 55,
     "open_issues_count": 3,
     "forks_count": 9
   },
   {
     "full_name": "colinhacks/zod",
-    "stargazers_count": 13046,
-    "open_issues_count": 131,
-    "forks_count": 475
+    "stargazers_count": 13177,
+    "open_issues_count": 134,
+    "forks_count": 476
   }
 ]
