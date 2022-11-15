@@ -7,9 +7,9 @@
   },
   {
     "full_name": "tmm/react-supabase",
-    "stargazers_count": 211,
+    "stargazers_count": 213,
     "open_issues_count": 6,
-    "forks_count": 22
+    "forks_count": 23
   },
   {
     "full_name": "supabase/react-data-grid",
@@ -21,11 +21,11 @@
     "full_name": "supabase-community/postgres-wasm",
     "stargazers_count": 87,
     "open_issues_count": 0,
-    "forks_count": 3
+    "forks_count": 4
   },
   {
     "full_name": "snaplet/postgres-wasm",
-    "stargazers_count": 1873,
+    "stargazers_count": 1882,
     "open_issues_count": 5,
     "forks_count": 55
   },
@@ -37,27 +37,27 @@
   },
   {
     "full_name": "supabase/storage-api",
-    "stargazers_count": 195,
-    "open_issues_count": 32,
-    "forks_count": 36
+    "stargazers_count": 196,
+    "open_issues_count": 34,
+    "forks_count": 37
   },
   {
     "full_name": "mhart/aws4fetch",
-    "stargazers_count": 278,
+    "stargazers_count": 281,
     "open_issues_count": 5,
     "forks_count": 29
   },
   {
     "full_name": "bdougie/awesome-black-developers",
-    "stargazers_count": 200,
+    "stargazers_count": 201,
     "open_issues_count": 1,
     "forks_count": 21
   },
   {
     "full_name": "arnnis/react-native-toast-notifications",
-    "stargazers_count": 393,
+    "stargazers_count": 395,
     "open_issues_count": 30,
-    "forks_count": 60
+    "forks_count": 61
   },
   {
     "full_name": "jeanverster/react-native-styled-toast",
@@ -73,8 +73,8 @@
   },
   {
     "full_name": "rayepps/radash",
-    "stargazers_count": 1812,
-    "open_issues_count": 18,
+    "stargazers_count": 1817,
+    "open_issues_count": 16,
     "forks_count": 58
   },
   {
@@ -97,20 +97,20 @@
   },
   {
     "full_name": "snaplet/action",
-    "stargazers_count": 12,
+    "stargazers_count": 13,
     "open_issues_count": 0,
     "forks_count": 0
   },
   {
     "full_name": "snaplet/docs",
-    "stargazers_count": 55,
+    "stargazers_count": 56,
     "open_issues_count": 3,
     "forks_count": 9
   },
   {
     "full_name": "colinhacks/zod",
-    "stargazers_count": 13442,
-    "open_issues_count": 134,
-    "forks_count": 483
+    "stargazers_count": 13532,
+    "open_issues_count": 117,
+    "forks_count": 486
   }
 ]
