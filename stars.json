@@ -7,9 +7,9 @@
   },
   {
     "full_name": "tmm/react-supabase",
-    "stargazers_count": 213,
+    "stargazers_count": 214,
     "open_issues_count": 6,
-    "forks_count": 23
+    "forks_count": 24
   },
   {
     "full_name": "supabase/react-data-grid",
@@ -25,25 +25,25 @@
   },
   {
     "full_name": "snaplet/postgres-wasm",
-    "stargazers_count": 1882,
+    "stargazers_count": 1889,
     "open_issues_count": 5,
     "forks_count": 55
   },
   {
     "full_name": "snaplet/netlify-preview-database-plugin",
-    "stargazers_count": 9,
+    "stargazers_count": 10,
     "open_issues_count": 2,
     "forks_count": 1
   },
   {
     "full_name": "supabase/storage-api",
-    "stargazers_count": 196,
-    "open_issues_count": 34,
+    "stargazers_count": 198,
+    "open_issues_count": 30,
     "forks_count": 37
   },
   {
     "full_name": "mhart/aws4fetch",
-    "stargazers_count": 281,
+    "stargazers_count": 282,
     "open_issues_count": 5,
     "forks_count": 29
   },
@@ -55,7 +55,7 @@
   },
   {
     "full_name": "arnnis/react-native-toast-notifications",
-    "stargazers_count": 395,
+    "stargazers_count": 397,
     "open_issues_count": 30,
     "forks_count": 61
   },
@@ -73,9 +73,9 @@
   },
   {
     "full_name": "rayepps/radash",
-    "stargazers_count": 1817,
-    "open_issues_count": 16,
-    "forks_count": 58
+    "stargazers_count": 1822,
+    "open_issues_count": 19,
+    "forks_count": 59
   },
   {
     "full_name": "zygopleural/snaplet-circleci-orb",
@@ -109,8 +109,8 @@
   },
   {
     "full_name": "colinhacks/zod",
-    "stargazers_count": 13532,
-    "open_issues_count": 117,
+    "stargazers_count": 13638,
+    "open_issues_count": 108,
     "forks_count": 486
   }
 ]
