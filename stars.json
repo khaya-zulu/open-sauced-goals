@@ -1,8 +1,8 @@
 [
   {
     "full_name": "Xiphe/cachified",
-    "stargazers_count": 79,
-    "open_issues_count": 1,
+    "stargazers_count": 196,
+    "open_issues_count": 2,
     "forks_count": 1
   },
   {
@@ -13,7 +13,7 @@
   },
   {
     "full_name": "tmm/react-supabase",
-    "stargazers_count": 222,
+    "stargazers_count": 223,
     "open_issues_count": 7,
     "forks_count": 26
   },
@@ -31,9 +31,9 @@
   },
   {
     "full_name": "snaplet/postgres-wasm",
-    "stargazers_count": 1906,
+    "stargazers_count": 1910,
     "open_issues_count": 5,
-    "forks_count": 55
+    "forks_count": 56
   },
   {
     "full_name": "snaplet/netlify-preview-database-plugin",
@@ -43,14 +43,14 @@
   },
   {
     "full_name": "supabase/storage-api",
-    "stargazers_count": 205,
+    "stargazers_count": 206,
     "open_issues_count": 30,
-    "forks_count": 39
+    "forks_count": 40
   },
   {
     "full_name": "mhart/aws4fetch",
-    "stargazers_count": 283,
-    "open_issues_count": 6,
+    "stargazers_count": 284,
+    "open_issues_count": 7,
     "forks_count": 30
   },
   {
@@ -67,8 +67,8 @@
   },
   {
     "full_name": "jeanverster/react-native-styled-toast",
-    "stargazers_count": 281,
-    "open_issues_count": 22,
+    "stargazers_count": 282,
+    "open_issues_count": 23,
     "forks_count": 30
   },
   {
@@ -79,9 +79,9 @@
   },
   {
     "full_name": "rayepps/radash",
-    "stargazers_count": 1836,
-    "open_issues_count": 24,
-    "forks_count": 59
+    "stargazers_count": 1840,
+    "open_issues_count": 25,
+    "forks_count": 60
   },
   {
     "full_name": "zygopleural/snaplet-circleci-orb",
@@ -109,14 +109,14 @@
   },
   {
     "full_name": "snaplet/docs",
-    "stargazers_count": 57,
-    "open_issues_count": 3,
+    "stargazers_count": 58,
+    "open_issues_count": 4,
     "forks_count": 9
   },
   {
     "full_name": "colinhacks/zod",
-    "stargazers_count": 14513,
-    "open_issues_count": 136,
-    "forks_count": 514
+    "stargazers_count": 14715,
+    "open_issues_count": 141,
+    "forks_count": 520
   }
 ]
