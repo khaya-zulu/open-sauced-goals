@@ -1,8 +1,14 @@
 [
   {
+    "full_name": "infinitered/ignite",
+    "stargazers_count": 14643,
+    "open_issues_count": 42,
+    "forks_count": 1208
+  },
+  {
     "full_name": "serverless-stack/open-next",
-    "stargazers_count": 461,
-    "open_issues_count": 6,
+    "stargazers_count": 522,
+    "open_issues_count": 5,
     "forks_count": 7
   },
   {
@@ -13,15 +19,15 @@
   },
   {
     "full_name": "andi23rosca/solid-markdown",
-    "stargazers_count": 28,
+    "stargazers_count": 30,
     "open_issues_count": 4,
-    "forks_count": 5
+    "forks_count": 6
   },
   {
     "full_name": "tmm/react-supabase",
-    "stargazers_count": 226,
+    "stargazers_count": 227,
     "open_issues_count": 7,
-    "forks_count": 26
+    "forks_count": 25
   },
   {
     "full_name": "supabase/react-data-grid",
@@ -37,9 +43,9 @@
   },
   {
     "full_name": "snaplet/postgres-wasm",
-    "stargazers_count": 1915,
+    "stargazers_count": 1917,
     "open_issues_count": 5,
-    "forks_count": 57
+    "forks_count": 58
   },
   {
     "full_name": "snaplet/netlify-preview-database-plugin",
@@ -49,8 +55,8 @@
   },
   {
     "full_name": "supabase/storage-api",
-    "stargazers_count": 220,
-    "open_issues_count": 28,
+    "stargazers_count": 221,
+    "open_issues_count": 29,
     "forks_count": 44
   },
   {
@@ -67,13 +73,13 @@
   },
   {
     "full_name": "arnnis/react-native-toast-notifications",
-    "stargazers_count": 405,
+    "stargazers_count": 407,
     "open_issues_count": 36,
     "forks_count": 62
   },
   {
     "full_name": "jeanverster/react-native-styled-toast",
-    "stargazers_count": 286,
+    "stargazers_count": 287,
     "open_issues_count": 24,
     "forks_count": 30
   },
@@ -85,9 +91,9 @@
   },
   {
     "full_name": "rayepps/radash",
-    "stargazers_count": 1863,
-    "open_issues_count": 14,
-    "forks_count": 61
+    "stargazers_count": 1866,
+    "open_issues_count": 13,
+    "forks_count": 62
   },
   {
     "full_name": "zygopleural/snaplet-circleci-orb",
@@ -97,7 +103,7 @@
   },
   {
     "full_name": "snaplet/vercel-action",
-    "stargazers_count": 14,
+    "stargazers_count": 13,
     "open_issues_count": 1,
     "forks_count": 0
   },
@@ -115,14 +121,14 @@
   },
   {
     "full_name": "snaplet/docs",
-    "stargazers_count": 58,
+    "stargazers_count": 60,
     "open_issues_count": 4,
     "forks_count": 9
   },
   {
     "full_name": "colinhacks/zod",
-    "stargazers_count": 15515,
-    "open_issues_count": 143,
-    "forks_count": 541
+    "stargazers_count": 15771,
+    "open_issues_count": 154,
+    "forks_count": 552
   }
 ]
