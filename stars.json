@@ -1,33 +1,33 @@
 [
   {
     "full_name": "infinitered/ignite",
-    "stargazers_count": 14643,
-    "open_issues_count": 42,
-    "forks_count": 1208
+    "stargazers_count": 14666,
+    "open_issues_count": 43,
+    "forks_count": 1210
   },
   {
     "full_name": "serverless-stack/open-next",
-    "stargazers_count": 522,
-    "open_issues_count": 5,
-    "forks_count": 7
+    "stargazers_count": 636,
+    "open_issues_count": 6,
+    "forks_count": 9
   },
   {
     "full_name": "Xiphe/cachified",
-    "stargazers_count": 206,
+    "stargazers_count": 211,
     "open_issues_count": 3,
     "forks_count": 3
   },
   {
     "full_name": "andi23rosca/solid-markdown",
     "stargazers_count": 30,
-    "open_issues_count": 4,
-    "forks_count": 6
+    "open_issues_count": 5,
+    "forks_count": 7
   },
   {
     "full_name": "tmm/react-supabase",
-    "stargazers_count": 227,
+    "stargazers_count": 228,
     "open_issues_count": 7,
-    "forks_count": 25
+    "forks_count": 26
   },
   {
     "full_name": "supabase/react-data-grid",
@@ -43,7 +43,7 @@
   },
   {
     "full_name": "snaplet/postgres-wasm",
-    "stargazers_count": 1917,
+    "stargazers_count": 1925,
     "open_issues_count": 5,
     "forks_count": 58
   },
@@ -55,8 +55,8 @@
   },
   {
     "full_name": "supabase/storage-api",
-    "stargazers_count": 221,
-    "open_issues_count": 29,
+    "stargazers_count": 223,
+    "open_issues_count": 31,
     "forks_count": 44
   },
   {
@@ -73,13 +73,13 @@
   },
   {
     "full_name": "arnnis/react-native-toast-notifications",
-    "stargazers_count": 407,
-    "open_issues_count": 36,
-    "forks_count": 62
+    "stargazers_count": 410,
+    "open_issues_count": 37,
+    "forks_count": 63
   },
   {
     "full_name": "jeanverster/react-native-styled-toast",
-    "stargazers_count": 287,
+    "stargazers_count": 292,
     "open_issues_count": 24,
     "forks_count": 30
   },
@@ -87,13 +87,13 @@
     "full_name": "snaplet/copycat",
     "stargazers_count": 200,
     "open_issues_count": 0,
-    "forks_count": 7
+    "forks_count": 8
   },
   {
     "full_name": "rayepps/radash",
-    "stargazers_count": 1866,
-    "open_issues_count": 13,
-    "forks_count": 62
+    "stargazers_count": 1870,
+    "open_issues_count": 12,
+    "forks_count": 64
   },
   {
     "full_name": "zygopleural/snaplet-circleci-orb",
@@ -127,8 +127,8 @@
   },
   {
     "full_name": "colinhacks/zod",
-    "stargazers_count": 15771,
-    "open_issues_count": 154,
-    "forks_count": 552
+    "stargazers_count": 15932,
+    "open_issues_count": 167,
+    "forks_count": 556
   }
 ]
