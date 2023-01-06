@@ -1,27 +1,39 @@
 [
   {
+    "full_name": "zenorocha/react-email",
+    "stargazers_count": 2350,
+    "open_issues_count": 40,
+    "forks_count": 61
+  },
+  {
+    "full_name": "jjenzz/pretty-cache-header",
+    "stargazers_count": 107,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "iway1/react-ts-form",
-    "stargazers_count": 765,
-    "open_issues_count": 1,
-    "forks_count": 5
+    "stargazers_count": 1153,
+    "open_issues_count": 5,
+    "forks_count": 9
   },
   {
     "full_name": "infinitered/ignite",
-    "stargazers_count": 14687,
-    "open_issues_count": 42,
-    "forks_count": 1212
+    "stargazers_count": 14700,
+    "open_issues_count": 32,
+    "forks_count": 1214
   },
   {
     "full_name": "serverless-stack/open-next",
-    "stargazers_count": 757,
+    "stargazers_count": 791,
     "open_issues_count": 8,
     "forks_count": 12
   },
   {
     "full_name": "Xiphe/cachified",
-    "stargazers_count": 219,
+    "stargazers_count": 226,
     "open_issues_count": 7,
-    "forks_count": 3
+    "forks_count": 4
   },
   {
     "full_name": "andi23rosca/solid-markdown",
@@ -31,7 +43,7 @@
   },
   {
     "full_name": "tmm/react-supabase",
-    "stargazers_count": 232,
+    "stargazers_count": 233,
     "open_issues_count": 7,
     "forks_count": 25
   },
@@ -49,27 +61,27 @@
   },
   {
     "full_name": "snaplet/postgres-wasm",
-    "stargazers_count": 1935,
+    "stargazers_count": 1940,
     "open_issues_count": 5,
     "forks_count": 57
   },
   {
     "full_name": "snaplet/netlify-preview-database-plugin",
-    "stargazers_count": 10,
+    "stargazers_count": 11,
     "open_issues_count": 2,
     "forks_count": 1
   },
   {
     "full_name": "supabase/storage-api",
-    "stargazers_count": 229,
-    "open_issues_count": 36,
+    "stargazers_count": 231,
+    "open_issues_count": 33,
     "forks_count": 46
   },
   {
     "full_name": "mhart/aws4fetch",
-    "stargazers_count": 287,
+    "stargazers_count": 289,
     "open_issues_count": 7,
-    "forks_count": 31
+    "forks_count": 30
   },
   {
     "full_name": "bdougie/awesome-black-developers",
@@ -86,20 +98,20 @@
   {
     "full_name": "jeanverster/react-native-styled-toast",
     "stargazers_count": 292,
-    "open_issues_count": 24,
+    "open_issues_count": 25,
     "forks_count": 30
   },
   {
     "full_name": "snaplet/copycat",
-    "stargazers_count": 201,
+    "stargazers_count": 202,
     "open_issues_count": 0,
-    "forks_count": 8
+    "forks_count": 7
   },
   {
     "full_name": "rayepps/radash",
-    "stargazers_count": 1881,
+    "stargazers_count": 1883,
     "open_issues_count": 14,
-    "forks_count": 66
+    "forks_count": 67
   },
   {
     "full_name": "zygopleural/snaplet-circleci-orb",
@@ -128,13 +140,13 @@
   {
     "full_name": "snaplet/docs",
     "stargazers_count": 61,
-    "open_issues_count": 4,
+    "open_issues_count": 3,
     "forks_count": 9
   },
   {
     "full_name": "colinhacks/zod",
-    "stargazers_count": 16341,
-    "open_issues_count": 143,
-    "forks_count": 566
+    "stargazers_count": 16491,
+    "open_issues_count": 136,
+    "forks_count": 571
   }
 ]
