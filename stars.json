@@ -1,38 +1,50 @@
 [
   {
-    "full_name": "zenorocha/react-email",
-    "stargazers_count": 2350,
-    "open_issues_count": 40,
-    "forks_count": 61
+    "full_name": "privatenumber/cleye",
+    "stargazers_count": 235,
+    "open_issues_count": 0,
+    "forks_count": 5
+  },
+  {
+    "full_name": "withfig/autocomplete",
+    "stargazers_count": 21045,
+    "open_issues_count": 167,
+    "forks_count": 4821
+  },
+  {
+    "full_name": "resendlabs/react-email",
+    "stargazers_count": 2418,
+    "open_issues_count": 39,
+    "forks_count": 65
   },
   {
     "full_name": "jjenzz/pretty-cache-header",
-    "stargazers_count": 107,
+    "stargazers_count": 112,
     "open_issues_count": 0,
     "forks_count": 0
   },
   {
     "full_name": "iway1/react-ts-form",
-    "stargazers_count": 1153,
-    "open_issues_count": 5,
-    "forks_count": 9
+    "stargazers_count": 1442,
+    "open_issues_count": 7,
+    "forks_count": 14
   },
   {
     "full_name": "infinitered/ignite",
-    "stargazers_count": 14700,
-    "open_issues_count": 32,
-    "forks_count": 1214
+    "stargazers_count": 14714,
+    "open_issues_count": 33,
+    "forks_count": 1217
   },
   {
     "full_name": "serverless-stack/open-next",
-    "stargazers_count": 791,
+    "stargazers_count": 830,
     "open_issues_count": 8,
     "forks_count": 12
   },
   {
     "full_name": "Xiphe/cachified",
-    "stargazers_count": 226,
-    "open_issues_count": 7,
+    "stargazers_count": 241,
+    "open_issues_count": 2,
     "forks_count": 4
   },
   {
@@ -73,26 +85,26 @@
   },
   {
     "full_name": "supabase/storage-api",
-    "stargazers_count": 231,
-    "open_issues_count": 33,
+    "stargazers_count": 234,
+    "open_issues_count": 36,
     "forks_count": 46
   },
   {
     "full_name": "mhart/aws4fetch",
     "stargazers_count": 289,
     "open_issues_count": 7,
-    "forks_count": 30
+    "forks_count": 31
   },
   {
     "full_name": "bdougie/awesome-black-developers",
-    "stargazers_count": 203,
+    "stargazers_count": 204,
     "open_issues_count": 1,
-    "forks_count": 21
+    "forks_count": 22
   },
   {
     "full_name": "arnnis/react-native-toast-notifications",
-    "stargazers_count": 411,
-    "open_issues_count": 37,
+    "stargazers_count": 413,
+    "open_issues_count": 38,
     "forks_count": 64
   },
   {
@@ -109,9 +121,9 @@
   },
   {
     "full_name": "rayepps/radash",
-    "stargazers_count": 1883,
-    "open_issues_count": 14,
-    "forks_count": 67
+    "stargazers_count": 1891,
+    "open_issues_count": 15,
+    "forks_count": 66
   },
   {
     "full_name": "zygopleural/snaplet-circleci-orb",
@@ -122,7 +134,7 @@
   {
     "full_name": "snaplet/vercel-action",
     "stargazers_count": 13,
-    "open_issues_count": 0,
+    "open_issues_count": 1,
     "forks_count": 0
   },
   {
@@ -134,19 +146,19 @@
   {
     "full_name": "snaplet/action",
     "stargazers_count": 14,
-    "open_issues_count": 0,
+    "open_issues_count": 1,
     "forks_count": 1
   },
   {
     "full_name": "snaplet/docs",
-    "stargazers_count": 61,
+    "stargazers_count": 62,
     "open_issues_count": 3,
     "forks_count": 9
   },
   {
     "full_name": "colinhacks/zod",
-    "stargazers_count": 16491,
-    "open_issues_count": 136,
-    "forks_count": 571
+    "stargazers_count": 16697,
+    "open_issues_count": 139,
+    "forks_count": 576
   }
 ]
